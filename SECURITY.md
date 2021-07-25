@@ -22,4 +22,4 @@ declined, etc.
 
 ## SECURITY ALERT
 
-!!! = Anyting done bad with the program, can't effect me, the user will have their own responsibility !
+!!! = Anyting done bad with the program, can't effect me, the user will take their OWN responsibility !
